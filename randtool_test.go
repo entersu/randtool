@@ -1,4 +1,4 @@
-package tool
+package ts
 
 import (
 	"testing"
