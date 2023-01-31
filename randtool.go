@@ -1,4 +1,4 @@
-package ts
+package randtool
 
 import "math/rand"
 
