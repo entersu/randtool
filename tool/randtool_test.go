@@ -1,4 +1,3 @@
-// Example/example_test.go
 package tool
 
 import (
